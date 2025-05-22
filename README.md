@@ -4,7 +4,7 @@ A full-stack food delivery application built using the MERN stack (MongoDB, Expr
 
 Project Status
 
-> This project is currently under active development. Features and UI may change as the app evolves.
+This project is currently under active development. Features and UI may change as the app evolves.
 
 🧩 Features (Planned and In Progress)
 
@@ -28,7 +28,4 @@ Project Status
 
 
 
----
-
-## 📁 Folder Structure (Planned)
 
